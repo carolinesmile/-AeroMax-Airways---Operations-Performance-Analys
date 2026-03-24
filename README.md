@@ -6,17 +6,6 @@ analyzing 5,000 passenger and flight records. Project
 covers full data pipeline from raw data cleaning in Excel 
 to interactive Power BI dashboard.
 
-## Project Structure
-AeroMax-Airways-Dashboard/
-│
-├── AeroMax_Airways_Final.xlsx    ← Excel analysis file
-├── AeroMax_Airways_Dashboard.pbix ← Power BI dashboard
-├── AeroMax_Airways_Dashboard.pdf  ← PDF export
-├── flight_delay.png               ← Dashboard screenshot
-├── customer_satisfaction.png      ← Dashboard screenshot
-├── revenue_fuel.png               ← Dashboard screenshot
-└── README.md                      ← Project documentation
-
 ## Tools Used
 - Microsoft Excel — data cleaning and preprocessing
 - Power BI Desktop — interactive dashboard
